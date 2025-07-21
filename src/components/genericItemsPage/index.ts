@@ -1,0 +1,1 @@
+export { GenericItemsPage } from './GenericItemsPage';

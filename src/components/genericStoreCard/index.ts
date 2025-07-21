@@ -1,0 +1,1 @@
+export { GenericStoreCard } from './GenericStoreCard';
