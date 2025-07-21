@@ -1,1 +1,0 @@
-export { GenericItemsList } from './GenericItemsList';

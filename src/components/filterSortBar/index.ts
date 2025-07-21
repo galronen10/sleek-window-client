@@ -1,1 +1,0 @@
-export { FilterSortBar } from './FilterSortBar';
